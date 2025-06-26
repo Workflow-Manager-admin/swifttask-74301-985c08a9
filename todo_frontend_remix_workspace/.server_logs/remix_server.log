@@ -5,3 +5,114 @@
 [33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
+Error: No route matches URL "/preview.html"
+    at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+    at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+    at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+    at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+    at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+    at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+No routes matched location "/preview.html" 
+ErrorResponseImpl {
+  status: 404,
+  statusText: 'Not Found',
+  internal: true,
+  data: 'Error: No route matches URL "/preview.html"',
+  error: Error: No route matches URL "/preview.html"
+      at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+      at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+      at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+      at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+      at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+      at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+}
+Error: No route matches URL "/preview.html"
+    at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+    at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+    at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+    at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+    at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+No routes matched location "/preview.html" 
+ErrorResponseImpl {
+  status: 404,
+  statusText: 'Not Found',
+  internal: true,
+  data: 'Error: No route matches URL "/preview.html"',
+  error: Error: No route matches URL "/preview.html"
+      at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+      at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+      at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+      at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+      at processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+      at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+}
+Error: No route matches URL "/preview.html"
+    at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+    at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+    at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+    at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+    at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+No routes matched location "/preview.html" 
+ErrorResponseImpl {
+  status: 404,
+  statusText: 'Not Found',
+  internal: true,
+  data: 'Error: No route matches URL "/preview.html"',
+  error: Error: No route matches URL "/preview.html"
+      at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+      at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+      at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+      at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+      at processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+      at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+}
+9:48:31 AM [vite] (client) ✨ new dependencies optimized: @remix-run/node
+9:48:31 AM [vite] (client) ✨ optimized dependencies changed. reloading
+Error: No route matches URL "/preview.html"
+    at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+    at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+    at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+    at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+    at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+No routes matched location "/preview.html" 
+ErrorResponseImpl {
+  status: 404,
+  statusText: 'Not Found',
+  internal: true,
+  data: 'Error: No route matches URL "/preview.html"',
+  error: Error: No route matches URL "/preview.html"
+      at getInternalRouterError (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:5550:5)
+      at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3562:19)
+      at handleDocumentRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:313:35)
+      at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:170:24)
+      at processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+      at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15
+}
+Error: Failed to create todo
+    at createTodo (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/app/services/api.ts:28:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at action (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/app/routes/_index.tsx:27:20)
+    at Object.callRouteAction (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/data.js:36:16)
+    at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:4934:19
+    at callLoaderOrAction (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:4998:16)
+    at async Promise.all (index 1)
+    at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/single-fetch.js:44:19
+    at callDataStrategyImpl (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:4870:17)
+    at callDataStrategy (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:4027:19)
+    at submit (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3790:21)
+    at queryImpl (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3719:22)
+    at Object.query (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/router/router.ts:3581:18)
+    at Object.singleFetchAction (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/single-fetch.js:61:18)
+    at handleSingleFetchRequest (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:282:34)
+    at requestHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/server-runtime/dist/server.js:143:18)
+    at nodeHandler (/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:859:27)
+    at /home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix/node_modules/@remix-run/dev/dist/vite/plugin.js:862:15

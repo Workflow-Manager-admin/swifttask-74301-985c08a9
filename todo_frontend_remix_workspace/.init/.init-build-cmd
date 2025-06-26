@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/swifttask-74301-985c08a9/todo_frontend_remix_workspace/todo_frontend_remix"
+}
